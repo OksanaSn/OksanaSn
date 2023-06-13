@@ -1,6 +1,6 @@
 ![194688946-6a476916-98f2-4593-8828-4df67f3fc4c2](https://github.com/OksanaSn/OksanaSn/assets/114131441/77040194-659f-4c4e-b62e-221849be7132)
 
-                        # __Hi there, I'm Oksana__ 👋
+# __Hi there, I'm Oksana__ 👋
 
 
 ## __I'm an Android <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> Developer__
